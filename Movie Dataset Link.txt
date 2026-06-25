@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+Click this link and download;
+1. credits.csv
+2. keywords.csv
+3. movies_metadata.csv
+4. rating_small.csv
+5. link_small.csv
