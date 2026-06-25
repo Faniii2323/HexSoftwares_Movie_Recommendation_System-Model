@@ -1,0 +1,12 @@
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SciPy sparse matrix
+- Surprise library
+- Joblib
+- Pickle
